@@ -1,6 +1,8 @@
 # Bellabeat-Case-Study
 Bellabeat smart device usage analysis using Python, Pandas and Tableau.
 # Bellabeat Smart Device Usage Analysis
+<img width="1009" height="800" alt="image" src="https://github.com/user-attachments/assets/3dba3b78-687d-4ccf-adad-9c3dd69dacc4" />
+
 
 ## Project Overview
 
